@@ -18,10 +18,11 @@ router.post('/', async (req, res) => {
 		console.log(footer)
 		const dataSaved = await footer.save()
 		res.json(dataSaved)
-	} catch (error) {
+		} 
+	catch (error) {
 		console.log(error)
 		res.status(500).json({ message: 'Error to Create' })
-	}
+		}
 })
 
 

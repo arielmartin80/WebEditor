@@ -6,7 +6,7 @@ const productSchema = new Schema ({
 		description: String,
 		category: String,
 		img_product: {
-			href:String, 
+			href: String, 
 			src: String,
 			alt: String
 		}

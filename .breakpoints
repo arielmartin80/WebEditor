@@ -1,5 +1,13 @@
 {
   "files": {
+    "src/routes/bannersRoutes.js": [
+      {
+        "id": "f696f512-4d46-4488-afdc-1bcad945f534",
+        "line": 5,
+        "version": 174,
+        "index": 108
+      }
+    ],
     "src/routes/headerRoutes.js": [
       {
         "id": "f2090ac4-97eb-4513-b5eb-cdfb55a5c8c3",
